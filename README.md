@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am passionate about embedded systems, IoT, and a
 - **Smart Home Automation:** Created a home automation system using IoT technologies for enhanced control and efficiency.
 
 ## GitHub Stats
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj2930&show_icons=true&theme=radical)
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj2930&show_icons=true&theme=shadow_blue)
 
 ## Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Suraj2930&color=blue)
