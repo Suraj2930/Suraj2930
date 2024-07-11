@@ -5,9 +5,8 @@
 Welcome to my GitHub profile! I am passionate about embedded systems, IoT, and automation. I have hands-on experience in designing and developing innovative projects, including remote-controlled rovers, industrial alarms, and smart home automation systems.
 
 ## Education
-- **Bachelor of Engineering in Electronics and Telecommunication**  
-  [Mumbai University]
-
+- **Bachelor of Engineering in Electronics and Telecommunication**   [Mumbai University]
+  
 ## Skills
 - **PCB Design:** Proficient in designing and manufacturing PCBs using various tools and techniques.
 - **Microcontroller Programming:** Experienced with Arduino IDE, C/C++, and integrating various sensors and modules.
@@ -29,4 +28,5 @@ Welcome to my GitHub profile! I am passionate about embedded systems, IoT, and a
 - [LinkedIn](https://www.linkedin.com/in/suraj-yadav-63b17522b/)
 - [Email](mailto:surajya2123@gmail.com)
 
-Feel free to explore my repositories and projects. Let's build something amazing together!
+Feel free to explore my repositories and projects. 
+Let's build something amazing together!
