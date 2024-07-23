@@ -31,13 +31,18 @@ industrial alarms, and smart home automation systems.
 </div>
 
 ----
-### GitHub Stats
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj2930&show_icons=true&theme=shadow_blue)
 
-### Visitor Count  : ![Visitor Count](https://komarev.com/ghpvc/?username=Suraj2930&color=blue) 
----
-### Connect with Me
-[LinkedIn](https://www.linkedin.com/in/suraj-yadav-63b17522b/) [Email](mailto:surajya2123@gmail.com)
+### GitHub Stats ![Visitor Count](https://komarev.com/ghpvc/?username=Suraj2930&color=blue) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj2930&show_icons=true&theme=shadow_blue&border_radius=15\&rank_icon=percentile) 
+![Streak](https://streak-stats.demolab.com/?user=Suraj2930&count_private=true&theme=shadow_blue&border_radius=15)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj2930&langs_count=10&layout=compact&theme=shadow_blue&border_radius=15&size_weight=1.0&count_weight=1.0&hide_progress=true)
+
+----
+
+### Connect with Me : 
+
+[<img width="30" height="30" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png">](https://www.linkedin.com/in/suraj-yadav-63b17522b/) <img width="10" height="30" src="https://w7.pngwing.com/pngs/762/39/png-transparent-vertical-bar-character-straight-line-angle-text-rectangle-thumbnail.png">[<img width="30" height="30" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">](mailto:surajya2123@gmail.com)
 
 Feel free to explore my repositories and projects. 
 Let's build something amazing together!
