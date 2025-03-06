@@ -37,7 +37,7 @@ industrial alarms, and smart home automation systems.
 ### GitHub Stats ![Visitor Count](https://komarev.com/ghpvc/?username=Suraj2930&color=blue&style=for-the-badge) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj2930&show_icons=true&theme=swift&border_radius=10&rank_icon=percentile&custom_title=Stats&line_height=23)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Suraj2930&theme=swift&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=180)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Suraj2930&theme=swift&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=180)](https://git.io/streak-stats)
 ![Suraj's GitHub rank](https://github-readme-stats.vercel.app/api?username=Suraj2930&hide=contribs,prs,stars,commits,issues&theme=swift&border_radius=10&custom_title=Suraj's%20Rank)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj2930&langs_count=10&theme=swift&border_radius=10&layout=compact&custom_title=languages-used)
 
